@@ -1,3 +1,4 @@
+
 .box {
     border: 1px solid black;
 }
@@ -38,4 +39,8 @@
 .todosLength {
     color: grey;
     font-size: 12px;
+}
+
+ul {
+    list-style-type: none;
 }
